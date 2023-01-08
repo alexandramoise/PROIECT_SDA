@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1673194516 source:c:\users\windows 10\desktop\structuri date avansate\proiect\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<bits/stdc++.h>
+	"User.h"
+	"RB.h"
+
+1673185355 c:\users\windows 10\desktop\structuri date avansate\proiect\user.h
+	<string>
+	<iostream>
+	<algorithm>
+	<bits/stdc++.h>
+
+1673083243 c:\users\windows 10\desktop\structuri date avansate\proiect\btree.h
+	<iostream>
+
+1673193240 c:\users\windows 10\desktop\structuri date avansate\proiect\rb.h
+	<string>
+	<iostream>
+	<list>
+	<sstream>
+
